@@ -1,0 +1,18 @@
+ class Lalit
+{
+public Static void main()
+{
+int num1=100;
+float f1=10.5f;
+double d1=99.99;
+ character char='lalit';
+string str="nalida";
+Boolean bool=true;
+}
+System.out.println("num1:"+num1);
+System.out.println("f1:"+f1);
+System.out.println("double:"+d1);
+System.out.println("char:"+char);
+System.out.println("str:"+str);
+System.out.println("bool:"+bool);
+}

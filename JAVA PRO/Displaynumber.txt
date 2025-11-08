@@ -1,0 +1,23 @@
+//WAP display all prime number from 1 to N
+
+
+public class Displaynumber
+{
+public static void main(String arg[])
+{
+int N=50;
+System.out.println("prine number from 1 to"+ N +"are:");
+for(int num=2; num<=N; num++)
+{
+Boolean isprime= true;
+for(int i=2;i<=num /2; i++)
+{
+if(num%i ==0){
+isprime=flase;
+break;}
+}if (isprime){
+System.out.println(num+"");
+}
+}
+}
+}

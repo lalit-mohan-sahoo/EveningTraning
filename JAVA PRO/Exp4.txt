@@ -1,0 +1,12 @@
+Exp:4
+Q1.Introduction to constructor to find the area Of circle,rectrangle ,triangle.
+Q2.WAP to overload constructor to find the sum values 
+	sum(int,int)
+	sum(int,int,int)
+	sum(int,float)
+Q3.WAP to initialized the constructor member of an employee and dsplay all using member function.
+Q4.can you overload the constructor and 
+	 myclass(int)-1
+	 myclass(int)
+Q5.WAP using default constructor to input the class member and show the function.
+Q6.can you use constructor is an arra
